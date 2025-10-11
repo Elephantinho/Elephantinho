@@ -18,3 +18,5 @@
 - 🔹 **Milestone 1** — `printf`, `get_next_line`, `born2beroot` → https://github.com/Elephantinho/Milestone-1  
 - 🔹 **Milestone 2** — `push_swap`, `fdf`, `pipex` → https://github.com/Elephantinho/milestone-2  
 - 🔹 **Milestone 3** — `minishell`, `philosophers` → https://github.com/Elephantinho/milestone-3
+
+![mr_bean](https://media.giphy.com/media/um2kBnfo55iW4ZH1Fa/giphy.gif?cid=790b76115rk468fcsav5emhqyk4n3c9nwh7pb5jp9d8ynpdr&ep=v1_gifs_search&rid=giphy.gif&ct=g)
