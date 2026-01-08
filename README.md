@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C** at **42 Florence (Firenze)**
 - 🧰 Building: [Libft](https://github.com/Elephantinho/libft) • [Milestone 1](https://github.com/Elephantinho/Milestone-1) • [Milestone 2](https://github.com/Elephantinho/milestone-2) • [Milestone 3](https://github.com/Elephantinho/milestone-3)
-- 🛠 Tech: **C**, **Makefile**, **Git**, **Linux**, **Bash**, **MiniLibX**
+- 🛠 Tech: **C**, **Makefile**, **Git**, **Linux**
 - 📫 Reach me: **mohamedpato143@gmail.com**
 - 🎓 Student @ **42 Firenze**
 
