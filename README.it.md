@@ -13,8 +13,6 @@
 
 ---
 
-# Ciao, sono Mohamed 👋
-
 Studente di Informatica presso 42 Firenze, con focus su programmazione in C, sistemi UNIX e sviluppo software.
 
 Mi piace lavorare su progetti che uniscono low-level programming, problem solving ed esperienze digitali interattive.
