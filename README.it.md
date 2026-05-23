@@ -1,50 +1,62 @@
 <p align="right">
   🌐 Disponibile in:
-  <a href="README.md"><b>English</b></a> | <a href="README.it.md"><b>Italiano</b></a>
+  <a href="README.md"><b>English</b></a> |
+  <a href="README.it.md"><b>Italiano</b></a>
 </p>
 
-# Ciao! Sono Mohamed 👋
+# Ciao, sono Mohamed! 👋
 
-- 🌱 Sto studiando **C** alla **42 Firenze**
-- 🧰 Progetti: [Libft](https://github.com/Elephantinho/libft) • [Milestone 1](https://github.com/Elephantinho/Milestone-1) • [Milestone 2](https://github.com/Elephantinho/milestone-2) • [Milestone 3](https://github.com/Elephantinho/milestone-3)
-- 🛠 Tecnologie: **C**, **Makefile**, **Git**, **Linux**, **Bash**, **MiniLibX**
-- 📫 Contatti: **mohamedpato143@gmail.com**
-- 🎓 Studente @ **42 Firenze**
+🎓 Studente di Informatica presso **42 Firenze**
+🌱 Attualmente focalizzato su **programmazione in C, sistemi UNIX e sviluppo software**
+🛠 Interessato a **programmazione low-level, computer graphics ed esperienze digitali interattive**
+📫 Contatto: **[mohamedpato143@gmail.com](mailto:mohamedpato143@gmail.com)**
 
 ---
 
-Studente di Informatica presso 42 Firenze, con focus su programmazione in C, sistemi UNIX e sviluppo software.
-
-Mi piace lavorare su progetti che uniscono low-level programming, problem solving ed esperienze digitali interattive.
-
-## Progetti Principali
+## 🚀 Progetti Principali
 
 ### [Minishell](https://github.com/Elephantinho/milestone-3)
-Una shell UNIX sviluppata in C.  
-Include parsing dei comandi, pipe, redirection, heredoc, variabili d’ambiente e gestione processi.
+
+Shell UNIX sviluppata in C con parsing dei comandi, pipe, redirection e gestione processi.
 
 ### [Cub3D](https://github.com/Elephantinho/milestone-4)
-Motore 3D basato su raycasting sviluppato in C tramite MiniLibX.  
-Include parsing mappe, rendering texture, movimento del player, collision detection e rendering realtime.
+
+Motore 3D basato su raycasting sviluppato in C tramite MiniLibX, ispirato ai primi FPS.
 
 ### [Philosophers](https://github.com/Elephantinho/milestone-3)
-Simulazione multithreading tramite pthread e mutex.  
-Focus su concorrenza, sincronizzazione, race conditions e prevenzione deadlock.
+
+Simulazione multithreading tramite pthread e mutex con focus su sincronizzazione e concorrenza.
 
 ### [FDF](https://github.com/Elephantinho/milestone-2)
-Renderer wireframe 3D sviluppato in C tramite MiniLibX.  
-Include proiezioni multiple, zoom, rotazione, traslazione e trasformazioni geometriche.
 
-## Altri Progetti 42
+Renderer wireframe 3D con trasformazioni realtime, proiezioni e controlli interattivi.
 
-- [Libft](https://github.com/Elephantinho/libft) — libreria C personalizzata
-- [get_next_line](https://github.com/Elephantinho/Milestone-1) — lettura file line-by-line
-- [ft_printf](https://github.com/Elephantinho/Milestone-1) — implementazione personalizzata di printf
-- [push_swap](https://github.com/Elephantinho/milestone-2) — ottimizzazione algoritmi di sorting
-- [pipex](https://github.com/Elephantinho/milestone-2) — pipe UNIX e comunicazione tra processi
+---
 
-## Tech Stack
+## 📚 Altri Progetti
+
+### [Libft](https://github.com/Elephantinho/libft)
+
+Implementazione personalizzata delle principali funzioni della libreria standard C.
+
+### [get_next_line](https://github.com/Elephantinho/Milestone-1)
+
+Funzione per la lettura efficiente di file riga per riga in C.
+
+### [ft_printf](https://github.com/Elephantinho/Milestone-1)
+
+Implementazione personalizzata della funzione printf.
+
+### [push_swap](https://github.com/Elephantinho/milestone-2)
+
+Ottimizzazione di algoritmi di sorting tramite operazioni su stack.
+
+### [pipex](https://github.com/Elephantinho/milestone-2)
+
+Riproduzione del comportamento delle pipe UNIX tramite comunicazione tra processi e file descriptor.
+
+---
+
+## 🧰 Tech Stack
 
 C • C++ • Linux • UNIX • Bash • Git • Makefile • pthread • MiniLibX
-
-![mr_bean](https://media.giphy.com/media/um2kBnfo55iW4ZH1Fa/giphy.gif?cid=790b76115rk468fcsav5emhqyk4n3c9nwh7pb5jp9d8ynpdr&ep=v1_gifs_search&rid=giphy.gif&ct=g)
