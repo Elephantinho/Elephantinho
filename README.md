@@ -13,11 +13,42 @@
 
 ---
 
-### Featured repositories
-- 🔹 **Libft** — Custom C standard library → https://github.com/Elephantinho/libft  
-- 🔹 **Milestone 1** — `printf`, `get_next_line`, `born2beroot` → https://github.com/Elephantinho/Milestone-1  
-- 🔹 **Milestone 2** — `push_swap`, `fdf`, `pipex` → https://github.com/Elephantinho/milestone-2  
-- 🔹 **Milestone 3** — `minishell`, `philosophers` → https://github.com/Elephantinho/milestone-3
+
+# Hi, I'm Mohamed 👋
+
+Computer Science student at 42 Firenze, focused on C programming, UNIX systems and software development.
+
+I like building projects that combine low-level programming, problem solving and interactive digital experiences.
+
+## Main Projects
+
+### [Minishell](https://github.com/Elephantinho/milestone-3)
+A small UNIX shell written in C.  
+Features: command parsing, pipes, redirections, heredoc, environment variables and process management.
+
+### [Cub3D](https://github.com/Elephantinho/milestone-4)
+A raycasting-based 3D engine written in C with MiniLibX.  
+Features: map parsing, texture rendering, player movement, collision detection and realtime rendering.
+
+### [Philosophers](https://github.com/Elephantinho/milestone-3)
+Multithreading simulation using pthread and mutexes.  
+Focus: concurrency, synchronization, race conditions and deadlock prevention.
+
+### [FDF](https://github.com/Elephantinho/milestone-2)
+A 3D wireframe renderer written in C with MiniLibX.  
+Features: multiple projections, zoom, rotation, translation and geometric transformations.
+
+## Other 42 Projects
+
+- [Libft](https://github.com/Elephantinho/libft) — custom C library
+- [get_next_line](https://github.com/Elephantinho/Milestone-1) — line-by-line file reading
+- [ft_printf](https://github.com/Elephantinho/Milestone-1) — custom printf implementation
+- [push_swap](https://github.com/Elephantinho/milestone-2) — sorting algorithm optimization
+- [pipex](https://github.com/Elephantinho/milestone-2) — UNIX pipes and process communication
+
+## Tech Stack
+
+C • C++ • Linux • UNIX • Bash • Git • Makefile • pthread • MiniLibX
 
 
 ## Student 42 Firenze 
