@@ -6,10 +6,10 @@
 
 # Ciao, sono Mohamed! 👋
 
-🎓 Studente di Informatica presso **42 Firenze**
-🌱 Attualmente focalizzato su **programmazione in C, sistemi UNIX e sviluppo software**
-🛠 Interessato a **programmazione low-level, computer graphics ed esperienze digitali interattive**
-📫 Contatto: **[mohamedpato143@gmail.com](mailto:mohamedpato143@gmail.com)**
+* 🎓 Studente di Informatica presso **42 Firenze**
+* 🌱 Attualmente focalizzato su **programmazione in C, sistemi UNIX e sviluppo software**
+* 🛠 Interessato a **programmazione low-level, computer graphics ed esperienze digitali interattive**
+* 📫 Contatto: **[mohamedpato143@gmail.com](mailto:mohamedpato143@gmail.com)**
 
 ---
 
