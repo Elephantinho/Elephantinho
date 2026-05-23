@@ -6,10 +6,10 @@
 
 # Hi there, I'm Mohamed! 👋
 
-🎓 Computer Science student @ **42 Firenze**
-🌱 Currently focused on **C programming, UNIX systems and software development**
-🛠 Interested in **low-level programming, computer graphics and interactive digital experiences**
-📫 Contact: **[mohamedpato143@gmail.com](mailto:mohamedpato143@gmail.com)**
+* 🎓 Computer Science student @ **42 Firenze**
+* 🌱 Currently focused on **C programming, UNIX systems and software development**
+* 🛠 Interested in **low-level programming, computer graphics and interactive digital experiences**
+* 📫 Contact: **[mohamedpato143@gmail.com](mailto:mohamedpato143@gmail.com)**
 
 ---
 
