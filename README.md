@@ -48,7 +48,7 @@ Features: multiple projections, zoom, rotation, translation and geometric transf
 
 ## Tech Stack
 
-C • C++ • Linux • UNIX • Bash • Git • Makefile • pthread • MiniLibX
+C • C++ • Linux • UNIX • Bash • Git • Makefile • pthread
 
 
 ## Student 42 Firenze 
