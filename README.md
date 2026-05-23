@@ -4,19 +4,16 @@
   <a href="README.it.md"><b>Italiano</b></a>
 </p>
 
-# Hi, I'm Mohamed 👋
+# Hi there, I'm Mohamed! 👋
 
-Computer Science student at **42 Firenze** focused on:
-
-* UNIX systems
-* Low-level programming
-* Computer graphics
-* Interactive digital experiences
-* Software development in C
+🎓 Computer Science student @ **42 Firenze**
+🌱 Currently focused on **C programming, UNIX systems and software development**
+🛠 Interested in **low-level programming, computer graphics and interactive digital experiences**
+📫 Contact: **[mohamedpato143@gmail.com](mailto:mohamedpato143@gmail.com)**
 
 ---
 
-## Main Projects
+## 🚀 Main Projects
 
 ### [Minishell](https://github.com/Elephantinho/milestone-3)
 
@@ -36,7 +33,7 @@ Multithreading simulation using pthread and mutexes with focus on synchronizatio
 
 ---
 
-## Other Projects
+## 📚 Other Projects
 
 ### [Libft](https://github.com/Elephantinho/libft)
 
@@ -60,10 +57,6 @@ Reproduction of UNIX pipe behavior using process communication and file descript
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 C • C++ • Linux • UNIX • Bash • Git • Makefile • pthread • MiniLibX
-
----
-
-📫 Contact: **[mohamedpato143@gmail.com](mailto:mohamedpato143@gmail.com)**
