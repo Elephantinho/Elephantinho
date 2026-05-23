@@ -13,9 +13,6 @@
 
 ---
 
-
-# Hi, I'm Mohamed 👋
-
 Computer Science student at 42 Firenze, focused on C programming, UNIX systems and software development.
 
 I like building projects that combine low-level programming, problem solving and interactive digital experiences.
